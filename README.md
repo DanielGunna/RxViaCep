@@ -7,7 +7,7 @@ To use this library your `minSdkVersion` must be >= 16.
 
 In order to use the library, you must to configurate your gradle scripts as described below:
 
-**1. Gradle dependency** (recommended)
+** Gradle dependency** 
 
   -  Add the following to your project level `build.gradle`:
  
@@ -28,7 +28,7 @@ dependencies {
 
 ## Usage
 
-Call RxViaCep  method ```withCep(String cep)``` then call subscribe : 
+Call RxViaCep  method ```withCep(String cep)``` then call subscribe (note that i'm using lambdas, but you can get the same behavior using the traditional approach which is implement an ```Observer<AddressResponse>```.) : 
 
 ```java
  RxViaCep.with("12345-789")
