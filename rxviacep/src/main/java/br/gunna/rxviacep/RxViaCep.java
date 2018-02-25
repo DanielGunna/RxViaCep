@@ -23,7 +23,7 @@ public class RxViaCep {
 
         final PublishSubject<AddressResponse> subject = PublishSubject.create();
 
-        if (cep.length() < Constants.CEP_LENGTH) {
+        if (cep.length() != Constants.CEP_LENGTH) {
             subject.onError(new Throwable(Constants.CEP_INVALID_FORMAT_ERROR));
         } else {
             getCep(cep, subject);
