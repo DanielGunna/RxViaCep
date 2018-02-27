@@ -1,4 +1,8 @@
 # RxViaCep
+
+[![Release](https://jitpack.io/v/danielgunna/RxViaCep.svg)]
+(https://jitpack.io/#danielgunna/RxViaCep)
+
 A simple reactive android implementation  to fetch information provided by ViaCep Api  about brazilian postal code addresses.
 
 ## Setup
@@ -22,7 +26,7 @@ allprojects {
  
 ```gradle
 dependencies {
-	implementation 'com.github.danielgunna:RxViaCep:1.0.1'
+	implementation 'com.github.danielgunna:RxViaCep:1.0.2'
 }
 ```
 
