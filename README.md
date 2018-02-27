@@ -22,7 +22,7 @@ allprojects {
  
 ```gradle
 dependencies {
-	implementation 'com.github.danielgunna:RxViaCep:1.0.0'
+	implementation 'com.github.danielgunna:RxViaCep:1.0.1'
 }
 ```
 
