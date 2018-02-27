@@ -1,7 +1,6 @@
 # RxViaCep
 
-[![Release](https://jitpack.io/v/danielgunna/RxViaCep.svg)]
-(https://jitpack.io/#danielgunna/RxViaCep)
+[![Release](https://jitpack.io/v/danielgunna/RxViaCep.svg)](https://jitpack.io/#danielgunna/RxViaCep)
 
 A simple reactive android implementation  to fetch information provided by ViaCep Api  about brazilian postal code addresses.
 
