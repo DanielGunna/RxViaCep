@@ -1,5 +1,4 @@
 # [RxViaCep](https://danielgunna.github.io/RxViaCep/)
-[![HitCount](http://hits.dwyl.io/DanielGunna/RxViaCep.svg)](http://hits.dwyl.io/DanielGunna/RxViaCep)
 
 [![Release](https://jitpack.io/v/danielgunna/RxViaCep.svg)](https://jitpack.io/#danielgunna/RxViaCep)
 
